@@ -17,7 +17,7 @@ public class VIVA6 {
         int count3 = 0;//this will record whether a negative number is entered
         int sum = 0; //sum each score together 
         boolean hasSecondMax = false;//is a boolean that indicates if a ssecond largest number 
-//循环终止输入
+
         while (true){//the loop will continuesly perform the operation, until we enter a 0
              int score = input.nextInt();//allow user to enter a number 
               if (score == 0){//this is used for end and skiping from the loop if 
